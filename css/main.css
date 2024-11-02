@@ -1,0 +1,11 @@
+#countriesTable tr:hover{ cursor:pointer; }
+
+
+.modal-dialog {
+    max-width: 45%; 
+    margin: 1.75rem auto;
+}
+
+.modal-content {
+    border-radius: 0.5rem;
+}
