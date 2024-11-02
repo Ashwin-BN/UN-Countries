@@ -1,15 +1,3 @@
-/********************************************************************************
-*  WEB422 – Assignment 2
-* 
-*  I declare that this assignment is my own work in accordance with Seneca's
-*  Academic Integrity Policy:
-* 
-*  https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
-* 
-*  Name: Ashwin B N      Student ID: 112763222       Date: 01-10-2024
-*
-********************************************************************************/
-
 let page = 1;
 const perPage = 10;
 let searchName = null;
